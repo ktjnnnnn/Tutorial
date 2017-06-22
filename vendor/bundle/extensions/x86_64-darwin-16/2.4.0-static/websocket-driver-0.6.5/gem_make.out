@@ -1,0 +1,15 @@
+current directory: /Users/Junya/workspace/toy_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/Junya/.anyenv/envs/rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170622-37494-1nrznkl.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Junya/workspace/toy_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/Junya/workspace/toy_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/Junya/workspace/toy_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170622-37494-8npmhi
